@@ -27,6 +27,7 @@ namespace ConsoleApp1
             int minSum = int.MaxValue;
             for (int i = 0; i < m; i++)
             {
+
                 int sum = 0;
                 for (int j = 0; j < n; j++)
                 {
